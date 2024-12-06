@@ -1,0 +1,23 @@
+*{
+	
+}
+
+body{
+	background-image: url(https://i.pinimg.com/736x/a7/56/b9/a756b9ea5f64a5d94a581e9d4eaf8cd9.jpg);
+}
+
+div{
+	background-color: white;
+}
+
+.col-sm-2 {
+	font-size: 25px;
+}
+
+footer {
+ background-color: white;
+  color: #00274d;
+  padding: 20px;
+  text-align: center;
+  border-top: 2px solid #847577ff;
+}
